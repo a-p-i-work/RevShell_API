@@ -1,2 +1,2 @@
 # RevShell
-API to generating Reverse shells on demand
+API to generate Reverse shells on demand
